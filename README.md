@@ -125,7 +125,7 @@ Articles worth reading if you're building a screen-free routine:
 
 ## Contributing
 
-Found a resource that fits the [criteria](#what-counts-as-free)? Open a pull request or [issue](https://github.com/Katherine-guoguoboss/awesome-printables/issues).
+Found a resource that fits the [criteria](#what-counts-as-free)? Open a pull request or [issue](https://github.com/KatherineGuoGuo/analogbag-open/issues).
 
 **Submission format:**
 
@@ -145,4 +145,4 @@ Found a resource that fits the [criteria](#what-counts-as-free)? Open a pull req
 
 ## License
 
-[CC0-1.0](./LICENSE) — public domain. Curated by [Katherine](https://github.com/Katherine-guoguoboss). Originally inspired by the [awesome](https://github.com/sindresorhus/awesome) movement.
+[CC0-1.0](./LICENSE) — public domain. Curated by [Katherine](https://github.com/KatherineGuoGuo). Originally inspired by the [awesome](https://github.com/sindresorhus/awesome) movement.
