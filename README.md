@@ -55,12 +55,13 @@ Resources behind email gates are listed separately and clearly marked `📧 emai
 - **[Cute Coloring Pages For Kids](https://www.cutecoloringpagesforkids.com/)** — Themed sets by holiday and topic
 - **[Coloring Book Info](https://www.coloring-book.info/coloring/)** — Large free archive, mixed quality
 - **[Get Coloring Pages](https://www.getcoloringpages.com/)** — Categorized by character, animal, season
-
+- **[Huebloom — Learning Coloring Pages](https://huebloom.art/coloring-pages/learning)** — Kid-friendly learning coloring pages for alphabet, numbers, and simple classroom activities, with PDF downloads.
+  
 ### Seasonal & Holiday
 
 - **[Analog Bag — Valentine's Day Coloring Pages](https://analogbag.net/coloring/valentines-day-coloring-pages)** — 5 Valentine's designs
 - **[Crayola — Holiday Coloring](https://www.crayola.com/free-coloring-pages/seasons-coloring-pages/)** — Updated each season
-
+- **[Huebloom — Vacation & Holiday Coloring Pages](https://huebloom.art/coloring-pages/vacation-and-holiday)** — Seasonal and holiday-themed coloring pages for kids, with PDF downloads.
 ---
 
 ## Puzzles
